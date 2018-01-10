@@ -1,2 +1,2 @@
 # Auto-Email-Sender
-Automatically sends emails (Gmail client)
+Automatically sends emails (Gmail client). Includes capaibilty to include attachments.
